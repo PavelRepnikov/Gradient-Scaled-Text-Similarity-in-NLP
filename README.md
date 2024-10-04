@@ -2,15 +2,6 @@
 
 This project aims to predict the similarity score between pairs of texts, where the score ranges from -5 to 5. The dataset contains queries and positive/negative responses, and the task is to train a model that accurately predicts the similarity score between two pieces of text.
 
-## Table of Contents
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Usage](#usage)
-- [Requirements](#requirements)
 
 ## Dataset
 The dataset consists of queries and several columns for positive and negative responses. The data is reformatted into pairs of texts with corresponding similarity scores for training.
