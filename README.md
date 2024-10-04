@@ -12,12 +12,6 @@ This project aims to predict the similarity score between pairs of texts, where 
 - [Usage](#usage)
 - [Requirements](#requirements)
 
-## Project Structure
-- `train.py`: Main script for training the model.
-- `model.py`: Model architecture and utility functions.
-- `utils.py`: Helper functions for data preprocessing and model evaluation.
-- `README.md`: Project documentation.
-
 ## Dataset
 The dataset consists of queries and several columns for positive and negative responses. The data is reformatted into pairs of texts with corresponding similarity scores for training.
 
