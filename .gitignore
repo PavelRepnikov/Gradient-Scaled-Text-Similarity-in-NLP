@@ -1,0 +1,4 @@
+venv/
+.ipynb_checkpoints/
+.model/trained_model/model.safetensors
+.notebooks/ipynb_checkpoints/
